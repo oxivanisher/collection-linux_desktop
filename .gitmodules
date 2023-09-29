@@ -25,3 +25,6 @@
 [submodule "roles/nas_mounts"]
 	path = roles/nas_mounts
 	url = https://github.com/oxivanisher/role-nas_mounts.git
+[submodule "roles/signal_desktop"]
+	path = roles/signal_desktop
+	url = https://github.com/oxivanisher/role-signal_desktop.git
