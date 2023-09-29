@@ -19,3 +19,6 @@
 [submodule "roles/keepassxc"]
 	path = roles/keepassxc
 	url = https://github.com/oxivanisher/role-keepassxc.git
+[submodule "roles/kodi"]
+	path = roles/kodi
+	url = https://github.com/oxivanisher/role-kodi.git
