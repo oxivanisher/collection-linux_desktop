@@ -34,3 +34,6 @@
 [submodule "roles/vscode"]
 	path = roles/vscode
 	url = https://github.com/oxivanisher/role-vscode.git
+[submodule "roles/fonts"]
+	path = roles/fonts
+	url = https://github.com/oxivanisher/role-fonts.git
