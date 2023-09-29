@@ -1,0 +1,3 @@
+[submodule "roles/nextcloud_client"]
+	path = roles/nextcloud_client
+	url = https://github.com/oxivanisher/role-nextcloud_client.git
