@@ -16,3 +16,6 @@
 [submodule "roles/howdy"]
 	path = roles/howdy
 	url = https://github.com/oxivanisher/role-howdy.git
+[submodule "roles/keepassxc"]
+	path = roles/keepassxc
+	url = https://github.com/oxivanisher/role-keepassxc.git
