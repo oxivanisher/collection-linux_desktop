@@ -4,3 +4,6 @@
 [submodule "roles/ubuntu_hide_amazon_link"]
 	path = roles/ubuntu_hide_amazon_link
 	url = https://github.com/oxivanisher/role-ubuntu_hide_amazon_link.git
+[submodule "roles/gnome_disable_inital_setup"]
+	path = roles/gnome_disable_inital_setup
+	url = https://github.com/oxivanisher/role-gnome_disable_inital_setup.git
