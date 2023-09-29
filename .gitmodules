@@ -37,3 +37,6 @@
 [submodule "roles/fonts"]
 	path = roles/fonts
 	url = https://github.com/oxivanisher/role-fonts.git
+[submodule "roles/wol"]
+	path = roles/wol
+	url = https://github.com/oxivanisher/role-wol.git
