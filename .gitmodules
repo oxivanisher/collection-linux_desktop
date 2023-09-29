@@ -22,3 +22,6 @@
 [submodule "roles/kodi"]
 	path = roles/kodi
 	url = https://github.com/oxivanisher/role-kodi.git
+[submodule "roles/nas_mounts"]
+	path = roles/nas_mounts
+	url = https://github.com/oxivanisher/role-nas_mounts.git
