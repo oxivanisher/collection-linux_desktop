@@ -13,3 +13,6 @@
 [submodule "roles/vivaldi"]
 	path = roles/vivaldi
 	url = https://github.com/oxivanisher/role-vivaldi.git
+[submodule "roles/howdy"]
+	path = roles/howdy
+	url = https://github.com/oxivanisher/role-howdy.git
