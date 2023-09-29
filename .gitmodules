@@ -31,3 +31,6 @@
 [submodule "roles/sublime"]
 	path = roles/sublime
 	url = https://github.com/oxivanisher/role-sublime.git
+[submodule "roles/vscode"]
+	path = roles/vscode
+	url = https://github.com/oxivanisher/role-vscode.git
