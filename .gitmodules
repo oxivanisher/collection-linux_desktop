@@ -7,3 +7,6 @@
 [submodule "roles/gnome_disable_inital_setup"]
 	path = roles/gnome_disable_inital_setup
 	url = https://github.com/oxivanisher/role-gnome_disable_inital_setup.git
+[submodule "roles/gnome_loginscreen_configure"]
+	path = roles/gnome_loginscreen_configure
+	url = https://github.com/oxivanisher/role-gnome_loginscreen_configure.git
