@@ -43,3 +43,6 @@
 [submodule "roles/spotify"]
 	path = roles/spotify
 	url = https://github.com/oxivanisher/role-spotify
+[submodule "roles/google_chrome"]
+	path = roles/google_chrome
+	url = https://github.com/oxivanisher/role-google_chrome
