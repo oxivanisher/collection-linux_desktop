@@ -40,3 +40,6 @@
 [submodule "roles/wol"]
 	path = roles/wol
 	url = https://github.com/oxivanisher/role-wol.git
+[submodule "roles/spotify"]
+	path = roles/spotify
+	url = https://github.com/oxivanisher/role-spotify
