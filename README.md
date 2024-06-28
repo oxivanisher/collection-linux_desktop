@@ -1,6 +1,6 @@
 # Ansible Collection - oxivanisher.linux_desktop
 
-Documentation for the collection.
+[![Ansible Lint, Auto Release and Publish to Ansible Galaxy](https://github.com/oxivanisher/collection-linux_desktop/actions/workflows/release-new-version.yml/badge.svg)](https://github.com/oxivanisher/collection-linux_desktop/actions/workflows/release-new-version.yml)
 
 ## Contains the following roles
 * https://github.com/oxivanisher/role-fonts.git
