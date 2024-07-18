@@ -1,3 +1,7 @@
+## 2024-07-18
+* Add obsidian role
+* Bump spotify role (just adding a readme)
+
 ## 2024-06-28
 * Adding pipeline badge
 * Adding supported minimal version for linter

@@ -12,6 +12,7 @@
 * https://github.com/oxivanisher/role-kodi.git
 * https://github.com/oxivanisher/role-nas_mounts.git
 * https://github.com/oxivanisher/role-nextcloud_client.git
+* https://github.com/oxivanisher/role-obsidian.git
 * https://github.com/oxivanisher/role-signal_desktop.git
 * https://github.com/oxivanisher/role-spotify.git
 * https://github.com/oxivanisher/role-sublime.git
