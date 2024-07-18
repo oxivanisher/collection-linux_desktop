@@ -46,3 +46,6 @@
 [submodule "roles/google_chrome"]
 	path = roles/google_chrome
 	url = https://github.com/oxivanisher/role-google_chrome
+[submodule "roles/obsidian"]
+	path = roles/obsidian
+	url = https://github.com/oxivanisher/role-obsidian.git
