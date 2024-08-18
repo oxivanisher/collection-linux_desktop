@@ -1,3 +1,6 @@
+## 2024-08-12
+* Bump wold role (only setup WOL for ethernet interfaces)
+
 ## 2024-07-18
 * Add obsidian role
 * Bump spotify role (just adding a readme)
