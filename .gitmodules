@@ -49,3 +49,6 @@
 [submodule "roles/obsidian"]
 	path = roles/obsidian
 	url = https://github.com/oxivanisher/role-obsidian.git
+[submodule "roles/ubuntu_update_manager"]
+	path = roles/ubuntu_update_manager
+	url = https://github.com/oxivanisher/role-ubuntu_update_manager.git
