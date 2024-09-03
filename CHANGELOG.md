@@ -1,3 +1,6 @@
+## 2024-09-03
+* Add role ubuntu_update_manager
+
 ## 2024-08-12
 * Bump wold role (only setup WOL for ethernet interfaces)
 
