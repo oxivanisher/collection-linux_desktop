@@ -17,6 +17,7 @@
 * https://github.com/oxivanisher/role-spotify.git
 * https://github.com/oxivanisher/role-sublime.git
 * https://github.com/oxivanisher/role-ubuntu_hide_amazon_link.git
+* https://github.com/oxivanisher/role-ubuntu_update_manager.git
 * https://github.com/oxivanisher/role-vivaldi.git
 * https://github.com/oxivanisher/role-vscode.git
 * https://github.com/oxivanisher/role-wol.git
