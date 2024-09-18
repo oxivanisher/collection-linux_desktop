@@ -1,3 +1,6 @@
+## 2024-09-18
+* Bump for howdy role
+
 ## 2024-09-03
 * Add role ubuntu_update_manager
 
