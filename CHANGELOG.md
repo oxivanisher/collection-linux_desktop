@@ -1,3 +1,6 @@
+## 2024-09-28
+* Bump for fonts role. Attention: Fonts files location changed
+
 ## 2024-09-27
 * Bump for gnome_loginscreen_configure role. Attention: Variable names changed
 
