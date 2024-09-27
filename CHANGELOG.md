@@ -1,3 +1,6 @@
+## 2024-09-27
+* Bump for gnome_loginscreen_configure role. Attention: Variable names changed
+
 ## 2024-09-18
 * Bump for howdy role
 
