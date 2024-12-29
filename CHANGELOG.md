@@ -1,3 +1,6 @@
+## 2024-12-29
+* Bump for nextcloud client role.
+
 ## 2024-10-01
 * Bump for gnome_loginscreen_configure role.
 
