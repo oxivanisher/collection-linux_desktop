@@ -1,8 +1,9 @@
 ## 2024-12-29
-* Bump for nextcloud client role.
+* Bump for nextcloud client role
+* Bump for howdy role
 
 ## 2024-10-01
-* Bump for gnome_loginscreen_configure role.
+* Bump for gnome_loginscreen_configure role
 
 ## 2024-09-28
 * Bump for fonts role. Attention: Fonts files location changed
