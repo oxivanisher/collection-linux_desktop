@@ -1,6 +1,7 @@
 ## 2025-02-08
 * Bump for all roles to remove unused tests directory to make linter happy
 * Bump for nas_mounts now adding _netdev option
+* Everything is now correctly linted
 
 ## 2024-12-29
 * Bump for nextcloud client role
