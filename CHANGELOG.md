@@ -1,3 +1,6 @@
+## 2025-02-08
+* Bump for nas_mounts now adding _netdev option
+
 ## 2024-12-29
 * Bump for nextcloud client role
 * Bump for howdy role
