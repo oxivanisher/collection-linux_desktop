@@ -1,3 +1,6 @@
+## 2025-02-22
+* Bump for bugfix in gnome_disable_inital_setup role
+
 ## 2025-02-08
 * Bump for all roles to remove unused tests directory to make linter happy
 * Bump for nas_mounts now adding _netdev option
