@@ -1,3 +1,6 @@
+## 2025-05-02
+* Bump for change nas_mount role (might have security implications!)
+
 ## 2025-02-22
 * Bump for bugfix in gnome_disable_inital_setup role
 
