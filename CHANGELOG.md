@@ -4,6 +4,7 @@
 * Add prusaslicer role
 * Only run gnome_disable_initial_setup role when ansible_distribution == Ubuntu
 * Only run gnome_longinscreen_configure when the gdm3 package is installed
+* Bump for vscode role to use a deb822 source file again
 
 ## 2025-05-02
 * Bump for change nas_mount role (might have security implications!)
