@@ -1,6 +1,7 @@
 ## 2025-05-08
 * Bump for desktop app roles to fix check mode
 * Bump for obsidian to ensure snapd is installed
+* Add prusaslicer role
 
 ## 2025-05-02
 * Bump for change nas_mount role (might have security implications!)
