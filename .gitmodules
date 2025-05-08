@@ -52,3 +52,6 @@
 [submodule "roles/ubuntu_update_manager"]
 	path = roles/ubuntu_update_manager
 	url = https://github.com/oxivanisher/role-ubuntu_update_manager.git
+[submodule "roles/prusaslicer"]
+	path = roles/prusaslicer
+	url = https://github.com/oxivanisher/role-prusaslicer.git
