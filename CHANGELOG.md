@@ -6,6 +6,7 @@
 * Only run gnome_longinscreen_configure when the gdm3 package is installed
 * Bump for vscode role to use a deb822 source file again
 * Bump for vivaldi role to ensure a deb822 source file
+* Handling sources for Linux Mint
 
 ## 2025-05-02
 * Bump for change nas_mount role (might have security implications!)
