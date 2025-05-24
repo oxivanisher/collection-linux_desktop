@@ -1,3 +1,6 @@
+## 2025-05-24
+* Add flatpak_update role to collection
+
 ## 2025-05-08
 * Bump for desktop app roles to fix check mode
 * Bump for obsidian to ensure snapd is installed

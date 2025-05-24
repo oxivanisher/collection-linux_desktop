@@ -55,3 +55,6 @@
 [submodule "roles/prusaslicer"]
 	path = roles/prusaslicer
 	url = https://github.com/oxivanisher/role-prusaslicer.git
+[submodule "roles/flatpak_update"]
+	path = roles/flatpak_update
+	url = https://github.com/oxivanisher/role-flatpak_update.git
