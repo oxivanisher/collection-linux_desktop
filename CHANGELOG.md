@@ -1,3 +1,7 @@
+## 2025-05-29
+* Bump for obsidian bugfix
+* Bump for prusaslicer bugfix
+
 ## 2025-05-24
 * Add flatpak_update role to collection
 
