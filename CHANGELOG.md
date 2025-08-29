@@ -1,3 +1,6 @@
+## 2025-0829
+* Bump for Kodi role bump for background images
+
 ## 2025-05-29
 * Bump for obsidian bugfix
 * Bump for prusaslicer bugfix
