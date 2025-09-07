@@ -1,5 +1,8 @@
-## 2025-0829
-* Bump for Kodi role bump for background images
+## 2025-09-07
+* Bump for Kodi role bugfix
+
+## 2025-08-29
+* Bump for Kodi role for background images
 
 ## 2025-05-29
 * Bump for obsidian bugfix
