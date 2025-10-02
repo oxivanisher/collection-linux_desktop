@@ -1,3 +1,6 @@
+## 2025-10-02
+* Bump for deb822 repo dependency python3-debian
+
 ## 2025-09-07
 * Bump for Kodi role bugfix
 
