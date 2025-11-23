@@ -1,3 +1,6 @@
+## 2025-11-23
+* Ansible 2.5 porting in all roles
+
 ## 2025-10.05
 * Lookup user homes instead of guesstimating
 
@@ -21,7 +24,7 @@
 * Bump for desktop app roles to fix check mode
 * Bump for obsidian to ensure snapd is installed
 * Add prusaslicer role
-* Only run gnome_disable_initial_setup role when ansible_distribution == Ubuntu
+* Only run gnome_disable_initial_setup role when ansible_facts.distribution == Ubuntu
 * Only run gnome_longinscreen_configure when the gdm3 package is installed
 * Bump for vscode role to use a deb822 source file again
 * Bump for vivaldi role to ensure a deb822 source file
