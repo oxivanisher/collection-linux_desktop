@@ -3,6 +3,7 @@
 [![Ansible Lint, Auto Release and Publish to Ansible Galaxy](https://github.com/oxivanisher/collection-linux_desktop/actions/workflows/release-new-version.yml/badge.svg)](https://github.com/oxivanisher/collection-linux_desktop/actions/workflows/release-new-version.yml)
 
 ## Contains the following roles
+* https://github.com/oxivanisher/role-element.git
 * https://github.com/oxivanisher/role-fonts.git
 * https://github.com/oxivanisher/role-gnome_disable_inital_setup.git
 * https://github.com/oxivanisher/role-gnome_loginscreen_configure.git

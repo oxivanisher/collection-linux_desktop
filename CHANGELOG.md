@@ -1,3 +1,6 @@
+## 2025-11-30
+* Add Element (Matrix UI) role
+
 ## 2025-11-23
 * Ansible 2.5 porting in all roles
 
