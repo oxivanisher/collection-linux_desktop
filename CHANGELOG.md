@@ -1,3 +1,6 @@
+## 2026-01-28
+* Bump for vivaldi bugfix (fix repo URL)
+
 ## 2025-11-30
 * Add Element (Matrix UI) role
 
