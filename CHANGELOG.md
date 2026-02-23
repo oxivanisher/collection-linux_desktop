@@ -1,5 +1,6 @@
 ## 2026-02-23
 * Bump for nextcloud_client bugfix
+* Bump for keepassxc bugfix
 
 ## 2026-01-28
 * Bump for vivaldi bugfix (fix repo URL)
