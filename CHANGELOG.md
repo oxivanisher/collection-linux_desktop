@@ -1,3 +1,6 @@
+## 2026-02-24
+* Bump for gnome_loginscreen_configure to support show users on login screen
+
 ## 2026-02-23
 * Bump for nextcloud_client bugfix
 * Bump for keepassxc bugfix
