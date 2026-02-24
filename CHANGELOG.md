@@ -1,5 +1,6 @@
 ## 2026-02-24
 * Bump for gnome_loginscreen_configure to support show users on login screen
+* Bump for ubuntu_update_manager for Ansible 2.4 deprication
 
 ## 2026-02-23
 * Bump for nextcloud_client bugfix
