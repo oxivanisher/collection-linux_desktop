@@ -1,3 +1,6 @@
+## 2026-04-01 (2)
+* Remove redundant become_user: root in all roles
+
 ## 2026-04-01
 * nas_mounts: fix cifspw credentials file permissions to 0600
 * wol: use systemd_service module instead of generic service module
