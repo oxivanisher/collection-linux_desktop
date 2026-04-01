@@ -1,3 +1,7 @@
+## 2026-04-01
+* nas_mounts: fix cifspw credentials file permissions to 0600
+* wol: use systemd_service module instead of generic service module
+
 ## 2026-03-27
 * Bump for optimized loop output
 
