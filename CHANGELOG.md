@@ -1,3 +1,12 @@
+## 2026-05-07
+* Bump howdy role to reduce changes
+* Bump keepassxc role to reduce changes
+* Bump nextcloud_client role to reduce changes
+* Bump signal_desktop role to reduce changes
+* Bump sublime role to reduce changes
+* Bump vivaldi role to reduce changes
+* Bump vscode role to reduce changes
+
 ## 2026-04-01 (2)
 * Remove redundant become_user: root in all roles
 
