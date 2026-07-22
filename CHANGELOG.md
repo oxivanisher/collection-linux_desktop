@@ -1,3 +1,6 @@
+## 2026-07-22
+* Bump for linting improvements
+
 ## 2026-05-08
 * Bump for github.com workflow action version upgrade
 
