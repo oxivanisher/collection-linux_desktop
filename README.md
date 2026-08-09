@@ -21,6 +21,7 @@
 * https://github.com/oxivanisher/role-sublime.git
 * https://github.com/oxivanisher/role-ubuntu_hide_amazon_link.git
 * https://github.com/oxivanisher/role-ubuntu_update_manager.git
+* https://github.com/oxivanisher/role-url_file_handler.git
 * https://github.com/oxivanisher/role-vivaldi.git
 * https://github.com/oxivanisher/role-vscode.git
 * https://github.com/oxivanisher/role-wol.git

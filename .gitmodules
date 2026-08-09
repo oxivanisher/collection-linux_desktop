@@ -61,3 +61,6 @@
 [submodule "roles/element"]
 	path = roles/element
 	url = https://github.com/oxivanisher/role-element.git
+[submodule "roles/url_file_handler"]
+	path = roles/url_file_handler
+	url = https://github.com/oxivanisher/role-url_file_handler.git
