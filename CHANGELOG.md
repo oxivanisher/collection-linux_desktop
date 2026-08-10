@@ -1,5 +1,8 @@
+## 2026-08-10
+* Fix xml namespace in url_file_handler role
+
 ## 2026-08-09
-* Add role-url_file_handler role
+* Add url_file_handler role
 
 ## 2026-07-22
 * Bump for linting improvements
