@@ -1,3 +1,6 @@
+## 2026-09-30
+* Bump for nas_mounts to support GVFS options
+
 ## 2026-08-10
 * Fix xml namespace in url_file_handler role
 
