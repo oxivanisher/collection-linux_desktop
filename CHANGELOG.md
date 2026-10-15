@@ -1,3 +1,6 @@
+## 2026-10.15
+* Bump for keepassxc to install from flathub if ppa is not available
+
 ## 2026-09-30
 * Bump for nas_mounts to support GVFS options
 
